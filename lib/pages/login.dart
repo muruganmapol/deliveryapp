@@ -67,7 +67,7 @@ class _LoginState extends State<Login> {
                     ),
                     border: OutlineInputBorder(),
                     labelText: 'Phone Number',
-                    hintText: 'Enter phone number'),
+                    hintText: 'Enter phone Number'),
               ),
             ),
 
